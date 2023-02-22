@@ -1,0 +1,10 @@
+C:\Users\Герман\source\repos\Tablo_Server\Tablo_Server\bin\Debug\Tablo_Server.exe.config
+C:\Users\Герман\source\repos\Tablo_Server\Tablo_Server\bin\Debug\Tablo_Server.exe
+C:\Users\Герман\source\repos\Tablo_Server\Tablo_Server\bin\Debug\Tablo_Server.pdb
+C:\Users\Герман\source\repos\Tablo_Server\Tablo_Server\obj\Debug\Tablo_Server.csprojAssemblyReference.cache
+C:\Users\Герман\source\repos\Tablo_Server\Tablo_Server\obj\Debug\Tablo_Server.Form1.resources
+C:\Users\Герман\source\repos\Tablo_Server\Tablo_Server\obj\Debug\Tablo_Server.Properties.Resources.resources
+C:\Users\Герман\source\repos\Tablo_Server\Tablo_Server\obj\Debug\Tablo_Server.csproj.GenerateResource.cache
+C:\Users\Герман\source\repos\Tablo_Server\Tablo_Server\obj\Debug\Tablo_Server.csproj.CoreCompileInputs.cache
+C:\Users\Герман\source\repos\Tablo_Server\Tablo_Server\obj\Debug\Tablo_Server.exe
+C:\Users\Герман\source\repos\Tablo_Server\Tablo_Server\obj\Debug\Tablo_Server.pdb
